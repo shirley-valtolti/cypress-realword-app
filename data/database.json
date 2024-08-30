@@ -74,6 +74,39 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "MOPKMm8if",
+      "uuid": "1e1cc966-fb5f-4f30-b239-35a1f5b1cf29",
+      "firstName": "Shirley",
+      "lastName": "Valtolti",
+      "username": "shirleyvaltolti",
+      "password": "$2a$10$kuIL6tDZEF8GlbpYwr5D2uBi1xcmXbY9GPvBGWCvzNfOUzPWoLs7q",
+      "balance": 0,
+      "createdAt": "2024-08-28T03:22:19.163Z",
+      "modifiedAt": "2024-08-28T03:22:19.163Z"
+    },
+    {
+      "id": "-jcTtNHyc",
+      "uuid": "f4317fb3-89dd-4ed3-95b1-16f2f878e50f",
+      "firstName": "Paulo",
+      "lastName": "Valtolti",
+      "username": "paulovaltolti",
+      "password": "$2a$10$WKU47fVFqAahKLBx5b2NdepvTJyuihHRbJjU5bY7YiX9ZRO1sa4Sy",
+      "balance": 0,
+      "createdAt": "2024-08-30T02:54:52.235Z",
+      "modifiedAt": "2024-08-30T02:54:52.235Z"
+    },
+    {
+      "id": "W8nWTaC8f",
+      "uuid": "453e077e-e85c-40ad-9d82-58e69705156f",
+      "firstName": "Paulo",
+      "lastName": "Valtolti",
+      "username": "paulovaltolti",
+      "password": "$2a$10$W22HHjuKTWQtmJ5WUUz9ueyugXbKi7Ov87k0waQHQW01Hvwvs/.iS",
+      "balance": 0,
+      "createdAt": "2024-08-30T02:58:11.175Z",
+      "modifiedAt": "2024-08-30T02:58:11.175Z"
     }
   ],
   "contacts": [
@@ -253,6 +286,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "3w-KjlSd2",
+      "uuid": "37111b4f-cf6b-4639-a88e-ce340adacaaa",
+      "userId": "MOPKMm8if",
+      "bankName": "Santander",
+      "accountNumber": "012345678",
+      "routingNumber": "012345678",
+      "isDeleted": false,
+      "createdAt": "2024-08-28T03:22:47.330Z",
+      "modifiedAt": "2024-08-28T03:22:47.330Z"
     }
   ],
   "transactions": [
