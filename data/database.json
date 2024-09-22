@@ -11,7 +11,7 @@
       "phoneNumber": "398-225-9900",
       "avatar": "https://avatars.dicebear.com/api/human/uBmeaz5pX.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 150953,
+      "balance": 152953,
       "createdAt": "2023-03-09T22:26:40.101Z",
       "modifiedAt": "2024-03-07T10:07:57.580Z"
     },
@@ -26,7 +26,7 @@
       "phoneNumber": "410-786-2112",
       "avatar": "https://avatars.dicebear.com/api/human/GjWovtg2hr.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 93026,
+      "balance": 94026,
       "createdAt": "2023-04-23T13:52:10.979Z",
       "modifiedAt": "2024-03-07T09:07:46.709Z"
     },
@@ -76,81 +76,37 @@
       "modifiedAt": "2024-03-07T00:07:36.510Z"
     },
     {
-      "id": "wfX8mh8VX",
-      "uuid": "ecf19f54-7b63-49c5-9fc4-52d5ec160598",
+      "id": "XED-7DRrA",
+      "uuid": "608baffc-3e7a-44f9-a43e-56d36bbe5796",
       "firstName": "Paulo",
       "lastName": "Valtolti",
       "username": "paulovaltolti",
-      "password": "$2a$10$DUeqChAXuXBDsnUAoVwaVeXDn6WdlxheO9YTXkB1U1XSBRDm099Au",
+      "password": "$2a$10$mnzwIMQU8f8M1gRmdHs5geD3Uk8v5GtjYxW5E/mzvKCSoAyQ0wXrG",
       "balance": 0,
-      "createdAt": "2024-08-31T02:41:00.189Z",
-      "modifiedAt": "2024-08-31T02:41:00.189Z"
+      "createdAt": "2024-09-22T01:31:55.221Z",
+      "modifiedAt": "2024-09-22T01:31:55.221Z"
     },
     {
-      "id": "QlPvSX5UD",
-      "uuid": "f6f93888-a22c-4946-a71d-1a1fd2b6e2ea",
+      "id": "82ouzqorm",
+      "uuid": "d4c7213d-20e0-4ca5-a4f5-26985ab77376",
       "firstName": "Paulo",
       "lastName": "Valtolti",
       "username": "paulovaltolti",
-      "password": "$2a$10$Y5cbc5zkh/bBLj3XIvST8elmbbUbyE2fMeW/i9AuxAX5tDXBVjWSi",
+      "password": "$2a$10$aU0eqxRRIjOfUawGnd3s8uV4.iTRHt6IwxS.HexlQEjptlJoZNOHy",
       "balance": 0,
-      "createdAt": "2024-08-31T02:42:26.609Z",
-      "modifiedAt": "2024-08-31T02:42:26.609Z"
+      "createdAt": "2024-09-22T01:32:16.241Z",
+      "modifiedAt": "2024-09-22T01:32:16.241Z"
     },
     {
-      "id": "q6cFKUla4",
-      "uuid": "1b04c931-cc22-4a1b-99df-46d5bd8492ab",
-      "firstName": "Paulo",
+      "id": "WCtDPyXre",
+      "uuid": "3f5df162-f387-44d3-b37f-220467b1a182",
+      "firstName": "Shirley",
       "lastName": "Valtolti",
-      "username": "paulovaltolti",
-      "password": "$2a$10$mGfn9rb/UIS71RyAPDtRDeFmR9egfbzfYNKMBBUoaEXqwaNtHNbeq",
+      "username": "shirleyvaltolti",
+      "password": "$2a$10$Yl5rfbE.xxtDkAoJAqXwIuxi2QhJ4w2MJ/D/AaB970MhUOCe4BYWq",
       "balance": 0,
-      "createdAt": "2024-08-31T02:43:49.967Z",
-      "modifiedAt": "2024-08-31T02:43:49.967Z"
-    },
-    {
-      "id": "9lv8llWy6",
-      "uuid": "7d9b63e8-7ffe-4662-b016-5f58b7c852b0",
-      "firstName": "Paulo",
-      "lastName": "Valtolti",
-      "username": "paulovaltolti",
-      "password": "$2a$10$4qXGxqFjaWNLfYW8BEvZMunhYj/haGP2gKNOq4uUP3HIOAN56EWCm",
-      "balance": 0,
-      "createdAt": "2024-08-31T02:44:30.121Z",
-      "modifiedAt": "2024-08-31T02:44:30.121Z"
-    },
-    {
-      "id": "WiUWsgCdZ",
-      "uuid": "db153d68-1e10-4efd-a392-ffbcf4e42359",
-      "firstName": "Paulo",
-      "lastName": "Valtolti",
-      "username": "paulovaltolti",
-      "password": "$2a$10$bgtC5pjBBBfV/xvgiaVq0eO5zDhynuQytoWhKnfpE8oX0bNvBzeMy",
-      "balance": 0,
-      "createdAt": "2024-08-31T02:45:51.460Z",
-      "modifiedAt": "2024-08-31T02:45:51.460Z"
-    },
-    {
-      "id": "t6VgJjVnv",
-      "uuid": "0db3c58d-5923-4fbc-8c1d-47888bdf9ddc",
-      "firstName": "Paulo",
-      "lastName": "Valtolti",
-      "username": "paulovaltolti",
-      "password": "$2a$10$PO1/m/Tor80Ncblp4Vn82O26f.wUTcbIWR.Ce6ZkNpYnWl5vkE11S",
-      "balance": 0,
-      "createdAt": "2024-08-31T02:47:05.554Z",
-      "modifiedAt": "2024-08-31T02:47:05.554Z"
-    },
-    {
-      "id": "ZSf1Shg7d",
-      "uuid": "b490f914-ebfa-4f3a-be2f-a1d3327065d0",
-      "firstName": "Paulo",
-      "lastName": "Valtolti",
-      "username": "paulovaltolti",
-      "password": "$2a$10$XYnQqhejNxLqxJ5HDz5hj.t1G4nkasXhKsIcBDAopg15EwZHQeWr.",
-      "balance": 0,
-      "createdAt": "2024-08-31T02:48:49.509Z",
-      "modifiedAt": "2024-08-31T02:48:49.509Z"
+      "createdAt": "2024-09-22T01:34:47.287Z",
+      "modifiedAt": "2024-09-22T01:34:47.287Z"
     }
   ],
   "contacts": [
@@ -330,6 +286,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "XpEpxj-A1",
+      "uuid": "56b3d481-66bf-4a3c-bcda-e3ae35fc20b1",
+      "userId": "WCtDPyXre",
+      "bankName": "Santander",
+      "accountNumber": "123456789",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2024-09-22T01:35:19.750Z",
+      "modifiedAt": "2024-09-22T01:35:19.750Z"
     }
   ],
   "transactions": [
@@ -9932,6 +9899,40 @@
       "requestResolvedAt": "",
       "createdAt": "2023-11-10T07:15:28.127Z",
       "modifiedAt": "2024-03-07T21:58:09.668Z"
+    },
+    {
+      "id": "SF8Jr9EVL",
+      "uuid": "17c36ca9-961e-4e14-8ac5-1fc9be82b47c",
+      "amount": 2000,
+      "description": "Energia",
+      "receiverId": "uBmeaz5pX",
+      "senderId": "WCtDPyXre",
+      "status": "complete",
+      "createdAt": "2024-09-22T01:38:10.544Z",
+      "modifiedAt": "2024-09-22T01:38:10.544Z"
+    },
+    {
+      "id": "StBWyVw-9",
+      "uuid": "b313cc83-deee-47e4-9373-68601d786a51",
+      "amount": 5000,
+      "description": "Pagamento",
+      "receiverId": "XED-7DRrA",
+      "senderId": "WCtDPyXre",
+      "status": "pending",
+      "requestStatus": "pending",
+      "createdAt": "2024-09-22T01:39:46.523Z",
+      "modifiedAt": "2024-09-22T01:39:46.523Z"
+    },
+    {
+      "id": "ZGpJcz9og",
+      "uuid": "3a886b47-51f7-4376-be34-32a4b943844a",
+      "amount": 1000,
+      "description": "Água",
+      "receiverId": "GjWovtg2hr",
+      "senderId": "WCtDPyXre",
+      "status": "complete",
+      "createdAt": "2024-09-22T01:39:55.635Z",
+      "modifiedAt": "2024-09-22T01:39:55.635Z"
     }
   ],
   "likes": [
@@ -10508,6 +10509,36 @@
       "isRead": false,
       "createdAt": "2024-02-01T18:53:45.699Z",
       "modifiedAt": "2024-03-07T17:13:52.110Z"
+    },
+    {
+      "id": "xRAcxLrgWm",
+      "uuid": "a1d00db8-6913-42d6-b969-eab3cac8a559",
+      "userId": "uBmeaz5pX",
+      "transactionId": "SF8Jr9EVL",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2024-09-22T01:38:10.556Z",
+      "modifiedAt": "2024-09-22T01:38:10.556Z"
+    },
+    {
+      "id": "R2emdJuog4",
+      "uuid": "36e7fd5b-20d0-4a52-98fd-5cd19548d300",
+      "userId": "XED-7DRrA",
+      "transactionId": "StBWyVw-9",
+      "status": "requested",
+      "isRead": false,
+      "createdAt": "2024-09-22T01:39:46.525Z",
+      "modifiedAt": "2024-09-22T01:39:46.525Z"
+    },
+    {
+      "id": "R0Ag-iuXrD",
+      "uuid": "b7a125a0-e12e-4133-a9e4-a798744d26d5",
+      "userId": "GjWovtg2hr",
+      "transactionId": "ZGpJcz9og",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2024-09-22T01:39:55.649Z",
+      "modifiedAt": "2024-09-22T01:39:55.649Z"
     }
   ],
   "banktransfers": [
@@ -11060,6 +11091,26 @@
       "transactionId": "gaggAe7wNoiC",
       "createdAt": "2023-03-24T22:18:19.407Z",
       "modifiedAt": "2024-03-07T13:32:42.472Z"
+    },
+    {
+      "id": "waSHhraEjh",
+      "uuid": "aa66af9c-ef21-41f7-9a18-3f878b31e8de",
+      "userId": "WCtDPyXre",
+      "amount": 2000,
+      "transactionId": "SF8Jr9EVL",
+      "type": "withdrawal",
+      "createdAt": "2024-09-22T01:38:10.547Z",
+      "modifiedAt": "2024-09-22T01:38:10.547Z"
+    },
+    {
+      "id": "8RMMUb3UtN",
+      "uuid": "5b43fa6a-137d-4597-9b02-5eab16e9c238",
+      "userId": "WCtDPyXre",
+      "amount": 1000,
+      "transactionId": "ZGpJcz9og",
+      "type": "withdrawal",
+      "createdAt": "2024-09-22T01:39:55.638Z",
+      "modifiedAt": "2024-09-22T01:39:55.638Z"
     }
   ]
 }

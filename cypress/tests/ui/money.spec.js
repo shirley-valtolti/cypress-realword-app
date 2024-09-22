@@ -14,4 +14,25 @@ describe('Enviar dinheiro com saldo suficiente', () => {
       cy.get('.MuiAlert-message')
     });
 
+    // Exercício 3 - Visualizar histórico de transações com sucesso.
+    it('Visualizar histórico de transações com sucesso.', () => {
+      cy.visit('http://localhost:3000')
+      cy.get('#username').type('shirleyvaltolti')
+      cy.get('#password').type('202122')
+      cy.get('[data-test="signin-submit"]').click()
+      cy.get('[data-test="nav-personal-tab"]').click()
+          .should('be.visible')
+    });
+
+    // Exercício 3 - Tentar visualizar o histórico de transações de um usuário sem transações anteriores.
+    it('Tentar visualizar o histórico de transações de um usuário sem transações anteriores.', () => {
+      cy.visit('http://localhost:3000')
+      cy.get('#username').type('shirleyvaltolti')
+      cy.get('#password').type('202122')
+      cy.get('[data-test="signin-submit"]').click()
+      cy.get('[data-test="nav-contacts-tab"]').click()
+      cy.get('.MuiTypography-gutterBottom')
+          .should('be.visible')
+    });
+
   });
